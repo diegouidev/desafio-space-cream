@@ -1,8 +1,9 @@
 "Space Cream" , projeto de uma sorveteria fictícia em sua versão mobile e desktop.
 
-⌨️ Tecnologias
+##⌨️ Tecnologias
 HTML
 CSS
+
 Conceitos aplicados no projeto:
 Regras do mobile first.
 Nova unidade de medida --> REM.
